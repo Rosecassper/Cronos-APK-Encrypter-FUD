@@ -30,3 +30,8 @@ For support or inquiries, feel free to contact the project maintainer: galaxy081
 
 ![5968282](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/401107f2-b5a8-4b3e-a62c-763afaa4b9c2)
 
+
+## Disclaimer  !!!!
+Note: The Cronos APK Encryptor tool is provided strictly for educational purposes.
+
+This tool is designed to demonstrate encryption techniques and is not intended for any malicious use. The author, Cronos, encourages users to utilize this tool responsibly and ethically. The APK Encryptor is not to be used for any activities that violate the terms of service of third-party applications or services.
