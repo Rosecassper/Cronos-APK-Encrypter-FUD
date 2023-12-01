@@ -31,6 +31,20 @@ For support or inquiries, feel free to contact the project maintainer: galaxy081
 ![5968282](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/401107f2-b5a8-4b3e-a62c-763afaa4b9c2)
 
 
+### Obfuscation:
+The tool employs obfuscation techniques to obscure the code and resources within your APK. This helps protect your intellectual property and adds an extra layer of security.
+
+### Resource Embedding:
+Once obfuscated, the tool places the obfuscated APK back into the application's resources. This approach ensures that the encrypted version is readily available within the application.
+
+### Builder in Delphi
+As an additional feature, we've created a user-friendly builder for the APK Encryptor using Delphi. The builder simplifies the process of using the APK Encryptor by providing a graphical interface for users.
+
+Simple Puts Obfuscated APK Into Resources : [ But We Made It Automatic With Builder ]
+![Screenshot_1](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/c4f32627-e2c4-4378-bc64-a3c87e841bb9)
+
+
+
 ## Disclaimer  !!!!
 Note: The Cronos APK Encryptor tool is provided strictly for educational purposes.
 
