@@ -1,3 +1,5 @@
+![ezgif-5-08cee29c79](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/fbd59346-18d5-4a6e-ba33-789370e2f5ee)
+
 ### APK Encryptor
 Overview
 Description:
@@ -25,5 +27,4 @@ Run the encryptor tool and provide the path to the APK you want to encrypt. The 
 
 For support or inquiries, feel free to contact the project maintainer: galaxy081081@gmail.com
 
-![ezgif-5-08cee29c79](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/fbd59346-18d5-4a6e-ba33-789370e2f5ee)
 
