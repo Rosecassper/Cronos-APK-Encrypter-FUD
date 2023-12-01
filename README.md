@@ -1,8 +1,5 @@
 ![ezgif-5-08cee29c79](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/fbd59346-18d5-4a6e-ba33-789370e2f5ee)
 
-### Programmed Developed Languages
-![5968282](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/07397d69-6e74-4a45-a9d7-a097a9fea5c6)
-![Embarcadero_Delphi_10 4_Sydney_Product_Logo_and_Icon svg](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/36c5f54c-6539-4b8d-86bf-9a3f2cc1943f)
 
 ### APK Encryptor
 Overview
@@ -31,4 +28,5 @@ Run the encryptor tool and provide the path to the APK you want to encrypt. The 
 
 For support or inquiries, feel free to contact the project maintainer: galaxy081081@gmail.com
 
+![5968282](https://github.com/CronosMonita/Cronos-APK-Encrypter-FUD/assets/152598304/401107f2-b5a8-4b3e-a62c-763afaa4b9c2)
 
